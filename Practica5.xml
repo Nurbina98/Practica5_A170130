@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:C:\Practica5_A170130\Practica5.xsl"?>
+<celular>
+  <celular>
+   <marca>Motorola</marca>
+   <modelo>MOTO G30</modelo>
+   <sistema_operativo>Android</sistema_operativo>
+   <color>Gris</color>
+   <pantalla>6.5"</pantalla>
+   <memoria_ram>4gb</memoria_ram>
+  </celular>
+  <celular>
+    <marca>Hp</marca>
+    <modelo>A1-Ws34</modelo>
+    <sistema_operativo>intel core i3</sistema_operativo>
+   <color>Laptop</color>
+   <pantalla>Windows 8.1</pantalla>
+   <memoria_ram>8GB</memoria_ram>
+ </celular>
+ <celular>
+    <marca>Hp</marca>
+    <modelo>A1-Ws34</modelo>
+    <sistema_operativo>intel core i3</sistema_operativo>
+    <color>Laptop</color>
+    <pantalla>Windows 8.1</pantalla>
+    <memoria_ram>8GB</memoria_ram>
+  </celular>
+  <celular>
+    <marca>Hp</marca>
+    <modelo>A1-Ws34</modelo>
+    <sistema_operativo>intel core i3</sistema_operativo>
+    <color>Laptop</color>
+    <pantalla>Windows 8.1</pantalla>
+   <memoria_ram>8GB</memoria_ram>
+ </celular>
+</celular>
